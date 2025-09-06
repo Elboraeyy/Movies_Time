@@ -27,9 +27,7 @@ It features a modern UI design, bottom navigation, and dynamic background with g
 ---
 
 ## 📸 Screenshots
-_Add screenshots of your app here (Home, Discover, Profile)._  
-Example:  
-```bash
+
 assets/
  ├── home.p<img width="361" height="807" alt="Screenshot 2025-09-06 064715" src="https://github.com/user-attachments/assets/a9ce2030-6733-432d-aa37-938c4ce0b8d1" />
 ng
