@@ -36,7 +36,3 @@ It features a modern UI design, bottom navigation, and dynamic background with g
 
 ### Profile Screen
 ![Profile Screen](assets/profile.png)
-
----
-
-## 📂 Project Structure
