@@ -28,10 +28,11 @@ It features a modern UI design, bottom navigation, and dynamic background with g
 
 ## 📸 Screenshots
 
-assets/
- ├── home.p<img width="361" height="807" alt="Screenshot 2025-09-06 064715" src="https://github.com/user-attachments/assets/a9ce2030-6733-432d-aa37-938c4ce0b8d1" />
-ng
- ├── discover<img width="355" height="805" alt="Screenshot 2025-09-06 070541" src="https://github.com/user-attachments/assets/6f264dbb-76ff-4487-8ad5-a047310bb163" />
-.png
- └── profil<img width="361" height="810" alt="Screenshot 2025-09-06 070603" src="https://github.com/user-attachments/assets/f2957e7d-5700-46a1-8f00-ed02e470a5a1" />
-e.png
+### Home Screen
+![Home Screen](assets/home.png)
+
+### Discover Screen
+![Discover Screen](assets/discover.png)
+
+### Profile Screen
+![Profile Screen](assets/profile.png)
